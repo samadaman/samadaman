@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samad Aman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
+<img align="right" width="400" alt="coding" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadaman&label=Profile%20views&color=0e75b6&style=flat" alt="samadaman" /> </p>
 
