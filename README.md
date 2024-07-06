@@ -1,3 +1,5 @@
+<img align="right" width="400" alt="coding" src="https://www.realvnc.com/wp-content/uploads/2022/01/vnc-developer-video2.original.gif" />
+
 <h1 align="center">Hi 👋, I'm Samad Aman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
