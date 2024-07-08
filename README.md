@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Samad Aman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+  <img align="right" height="400" alt="coding" src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadaman&label=Profile%20views&color=0e75b6&style=flat" alt="samadaman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samad aman" target="blank"><img src="https://img.shields.io/twitter/follow/samad aman?logo=twitter&style=for-the-badge" alt="samad aman" /></a> </p>
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **amansamad2500@gmail.com**
 
-  <img align="right" height="300" alt="coding" src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
