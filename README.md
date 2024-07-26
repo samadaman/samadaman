@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Python**
 
-- 💬 Ask me about **React, Next, Express.Js**
+- 💬 Ask me about **React, Next, & Express.Js**
 
 - 📫 How to reach me **amansamad2500@gmail.com**
 
