@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://res.cloudinary.com/proxify-io/image/upload/f_auto,dpr_auto,c_fill,q_auto:best,w_1728,h_720/v1/cms/images/articles/TkyF6I0lLwfDFJgK48FK2AlpftditG7GsBHUpB0E.png" />
+<img align="center" alt="coding" src="[https://res.cloudinary.com/proxify-io/image/upload/f_auto,dpr_auto,c_fill,q_auto:best,w_1728,h_720/v1/cms/images/articles/TkyF6I0lLwfDFJgK48FK2AlpftditG7GsBHUpB0E.png](https://th.bing.com/th/id/R.a856858ffeec8298bc278af3bcf1505c?rik=DOG6CnPSo3D8aw&riu=http%3a%2f%2fwww.stpatrickscollege.edu.pk%2fimages%2fOthers-pictures%2fcomputer.gif&ehk=EzZwF4aiOO%2feSH%2bKE%2b%2f1j4%2froRc%2fNhjvijrnS9I0hCM%3d&risl=&pid=ImgRaw&r=0)" />
 
 <h1 align="center">Hi 👋, I'm Samad Aman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
