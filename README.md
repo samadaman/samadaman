@@ -49,32 +49,29 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40"/>
     </a>
-    <a href="https://github.com" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="40" height="40"/>
-    </a>
-    <!-- Animated Icons for the remaining tools -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212280793-d8d0023f-7c14-4c61-893a-2f5b91e99b6c.gif" alt="nextjs" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212281822-9a83c8d6-3d40-4c39-8011-2e5a02d7ab28.gif" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212280806-e14e485b-63e5-4515-b383-cde61c9a0038.gif" alt="tailwind" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212281823-bdcd68da-71a7-458c-bfb3-7d7d908d15ed.gif" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212280811-c2ac1ecf-83ff-473d-a500-3d65a7e36804.gif" alt="html" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212281824-e3c98a7f-6f0e-4b54-861e-0878c2ed4b7e.gif" alt="html" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212280812-3151c9eb-38d3-4b8a-83eb-f2844b6a81b6.gif" alt="css" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212281825-2a2b979d-bb51-47ed-8e48-2a6e8ec5f223.gif" alt="css" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212280815-1e45d589-8d5a-4393-94e7-6eb8921d2a51.gif" alt="express" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212281826-472e6d45-5b59-41a0-a83b-8e6f63bb7f62.gif" alt="express" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212280817-319e22b8-8d84-4af3-a24e-97d4d07fc4f5.gif" alt="mysql" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212281827-5d564b4e-6f65-4c0e-9379-9c1f7f37eb09.gif" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://strapi.io/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212280818-20e2e4ed-9c08-4c16-94d2-2e1541cbba64.gif" alt="strapi" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212281828-84cf3d29-799e-48d8-9276-1b83d2546a06.gif" alt="strapi" width="40" height="40"/>
     </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadaman&show_icons=true&locale=en&layout=compact" alt="samadaman" /></p>
