@@ -50,27 +50,28 @@
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212281822-9a83c8d6-3d40-4c39-8011-2e5a02d7ab28.gif" alt="nextjs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212281823-bdcd68da-71a7-458c-bfb3-7d7d908d15ed.gif" alt="tailwind" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212281824-e3c98a7f-6f0e-4b54-861e-0878c2ed4b7e.gif" alt="html" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212281825-2a2b979d-bb51-47ed-8e48-2a6e8ec5f223.gif" alt="css" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212281826-472e6d45-5b59-41a0-a83b-8e6f63bb7f62.gif" alt="express" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212281827-5d564b4e-6f65-4c0e-9379-9c1f7f37eb09.gif" alt="mysql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://strapi.io/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/212281828-84cf3d29-799e-48d8-9276-1b83d2546a06.gif" alt="strapi" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/strapi/strapi-original.svg" alt="strapi" width="40" height="40"/>
     </a>
 </p>
+
 
 
 
