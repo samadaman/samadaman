@@ -62,7 +62,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="60" height="60"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://logodix.com/logo/2132762.jpg" alt="express" width="60" height="60"/>
+        <img src="https://programador-jr.vercel.app/assets/images/expressjs.png" alt="express" width="60" height="60"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
