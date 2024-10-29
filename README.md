@@ -33,7 +33,7 @@
 
 
 <h3>Languages and Tools:</h3>
-<p>
+<p d-flex>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="60" height="60"/>
     </a>
