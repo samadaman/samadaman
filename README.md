@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/samad aman" target="blank"><img src="https://img.shields.io/twitter/follow/samad aman?logo=twitter&style=for-the-badge" alt="samad aman" /></a> </p>
 
-- 🔭 I’m currently working on **Zerodope Gym From Strapi**
+- 🔭 I’m currently working on **Master in Javascript**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Python**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 💬 Ask me about **React, Next, & Express.Js**
 
